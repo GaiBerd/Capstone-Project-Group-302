@@ -2,7 +2,7 @@
 #include <Wire.h>
 #include <LIDARLite.h>
 
-// Explicitly define ESP32-S3 I2C pins
+// Define ESP32-S3 I2C pins
 #define I2C_SDA 21
 #define I2C_SCL 20
 
